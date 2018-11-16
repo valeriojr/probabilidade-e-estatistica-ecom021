@@ -1,1 +1,1 @@
-# Probabilidade-e-Estat-stica-ECOM021
+# Probabilidade e Estatística - ECOM021
