@@ -22,6 +22,9 @@ arbuthnot-boys-girls-ratio.png
 # 5. Em qual ano se verifica o maior número de nascimentos nos EUA?
 
 > which.max(present$boys + present$girls)
+
 [1] 22
+
 > present$year[22]
+
 [1] 1961
